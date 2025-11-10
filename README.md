@@ -43,7 +43,7 @@ Datasets and GeoJSON boundaries download automatically.
 
 You can also open and run this notebook interactively in your browser via **Binder** (no installation required):
 
-[![Launch Binder](https://mybinder.org/badge_logo.svg)](ADD_YOUR_BINDER_LINK_HERE)
+[![Launch Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/borgesf/scientificPlotsPython_knowvember25/HEAD)
 
 ---
 
