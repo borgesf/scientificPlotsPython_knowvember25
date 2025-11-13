@@ -9,8 +9,10 @@ dependencies:
   - cftime
   - numpy
   - pandas
+  - geopandas
   - matplotlib
   - cmocean
   - cartopy
   - shapely
   - pyproj
+
