@@ -28,7 +28,7 @@ The examples use ERA5 climate data (temperature and rainfall over Scandinavia) a
 
 ## Quick Start
 
-Run the notebook directly on [Google Colab](https://colab.research.google.com/drive/1xeok_6C6Gi6l1Vf8kl15VXqOtQDXWkpo) or locally with:
+Run the notebook directly on [Google Colab](https://colab.research.google.com/github/borgesf/scientificPlotsPython_knowvember25/blob/main/2025_11_scientificPlots_Knowvember25_codeOnly.ipynb) or locally with:
 
 ```bash
 pip install numpy matplotlib pandas geopandas xarray requests cmocean[plots]
